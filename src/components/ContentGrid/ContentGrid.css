@@ -1,0 +1,11 @@
+.content-grid .dornier {
+  max-height: 25rem;
+}
+.content-grid {
+  background-color: #ecf4ff;
+}
+
+.content-grid .sulzer {
+  height: 12rem;
+  object-fit: cover;
+}

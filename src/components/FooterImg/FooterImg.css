@@ -1,0 +1,8 @@
+.machine {
+  height: 40vh !important;
+  /* background-color: rgba(4, 4, 255, 0.811); */
+  background-image: url("https://www.staubli.com/adobe/dynamicmedia/deliver/dm-aid--f27552d2-3a68-4190-b1e0-042a493af0a0/technical-textile-weaving-system-tf-hip-2x.jpg?quality=65&width=1920&preferwebp=true");
+  background-blend-mode: darken;
+  background-repeat: no-repeat;
+  background-size: cover;
+}

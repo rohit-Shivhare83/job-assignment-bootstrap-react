@@ -1,0 +1,8 @@
+li a{
+    font-weight: bold !important;
+}
+.contact{
+    padding: 0 !important;
+    background: rgb(7,0,118);
+    background: linear-gradient(90deg, rgba(7,0,118,1) 0%, rgba(0,0,193,1) 50%, rgb(1, 172, 206) 100%);
+    }
